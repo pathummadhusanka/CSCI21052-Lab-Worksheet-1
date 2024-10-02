@@ -24,10 +24,8 @@ public class Q2 {
         System.out.println("Digit count: " + digitCount(num));
         System.out.println();
       }
+      
+      myScanner.close();
     }
-
-
-
-    
   }
 }
